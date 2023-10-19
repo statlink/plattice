@@ -1,0 +1,10 @@
+#useDynLib(plattice, .registration = TRUE)
+
+importFrom("ggplot2", aes, element_rect, element_text, facet_wrap, geom_line,
+           geom_point, ggplot, scale_x_continuous, scale_y_continuous, theme, unit)
+
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("^[^\\.]")
+
+
