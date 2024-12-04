@@ -13,8 +13,8 @@ The plot is customizable and easy to edit, even if you do not know how to constr
 \tabular{ll}{
 Package: \tab plattice\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2022-10-01\cr
+Version: \tab 1.1\cr
+Date: \tab 2024-12-04\cr
 License: \tab GPL-2\cr
 }
 }
